@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Help me！！",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-20T08:16:57.922987Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Help Me Hold On",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/01_Help_Me_Hold_On_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Help Me Hold On",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/02_Help_Me_Hold_On_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Help Me Hold On (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/03_Help_Me_Hold_On_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Help Me Hold On (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/04_Help_Me_Hold_On_(Remastered_LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Sammi Smith",
+      "has_synced": true,
+      "path": "select/05_Help_Me_Make_It_Through_The_Night_Sammi_Smith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/06_Help_Me_Make_It_Through_The_Night_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night (Album Version)",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/07_Help_Me_Make_It_Through_The_Night_(Album_Version)_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Help Me Make It Through the Night",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/08_Help_Me_Make_It_Through_the_Night_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Help Me Make It Through the Night (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/09_Help_Me_Make_It_Through_the_Night_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Please Help Me, I'm Falling",
+      "artist": "Hank Locklin",
+      "has_synced": true,
+      "path": "select/10_Please_Help_Me,_I'm_Falling_Hank_Locklin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Please Help Me, I'm Falling (Album Version)",
+      "artist": "Hank Locklin",
+      "has_synced": true,
+      "path": "select/11_Please_Help_Me,_I'm_Falling_(Album_Version)_Hank_Locklin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So Help Me Girl - Single Version",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/12_So_Help_Me_Girl_-_Single_Version_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "So Help Me Girl (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/13_So_Help_Me_Girl_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "So Help Me Girl (Single Version)",
+      "artist": "Joe Diffie",
+      "has_synced": false,
+      "path": "select/14_So_Help_Me_Girl_(Single_Version)_Joe_Diffie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Help Me",
+      "artist": "Maximilian Hecker",
+      "has_synced": false,
+      "path": "select/15_Help_Me_Maximilian_Hecker.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Girl Help Me",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/16_Girl_Help_Me_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Heaven Help Me",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/17_Heaven_Help_Me_Lizzo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Help me!!",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_Help_me!!_モーニング娘。.txt"
+    }
+  ]
+}
